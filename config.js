@@ -11,18 +11,18 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-['51935531943', '🌳 ATRO-BOT', true],
-['573013482814', '🧸 SakuraBotLite', true],
-['14437013473']]
+['5491168758497', '🌳 ENZO OFC', true],
+['5491130182250', '🧸 enzito2 ofc', true],
+['5491165601378']]
 
 global.suittag = ['5219993404349'];
 global.prems = ['51995386439'];
 
-global.packname = 'ATRO-BOT';
-global.author = 'Atro : Bot';
-global.wm = 'AtroBot';
-global.titulowm = 'Atro Bot';
-global.titulowm2 = `Atro + Bot`
+global.packname = 'DUFI-BOT';
+global.author = 'Dufi : Bot';
+global.wm = 'DufiBot';
+global.titulowm = 'Dufi Bot';
+global.titulowm2 = `Dufi + Bot`
 global.igfg = 'Atro';
 global.wait = '*✅ Un momento*';
 
@@ -51,9 +51,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nThe Atro - Bot`;
-global.gt = 'ATRO : BOT';
-global.atrobot = 'ATRO-BOT';
+global.wm2 = `${dia} ${fecha}\nThe Dufi - Bot`;
+global.gt = 'DUFI : BOT';
+global.atrobot = 'DUFI-BOT';
 global.md = 'https://github.com/Edwardofc/ATRO-BOT';
 global.atrobot = 'https://github.com/Edwardofc/ATRO-BOT';
 global.waitt = '*📍 Un momento....*';
